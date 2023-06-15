@@ -1,0 +1,2 @@
+# SQL-Training
+Pelatihan MySQL
